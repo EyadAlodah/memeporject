@@ -12,6 +12,6 @@ struct MemeInformation {
     var topText: String
     var buttomText: String
     var editedImage: UIImage
-    var orignalImage: UIImage
+    var orignalImage: UIImage 
     
 }
